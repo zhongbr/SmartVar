@@ -12,12 +12,15 @@
 >
 >> **1.右键选择 Configure Object**
 >>
+>>
 >> ![设置hot key](https://tva1.sinaimg.cn/large/007S8ZIlgy1ge2mhnh1orj318l0u0h2f.jpg)
 >>
 >> **2.完成Hotkey Settings设置自己顺手的快捷键**
+>>
 >>![设置快捷键](https://tva1.sinaimg.cn/large/007S8ZIlgy1ge2mm3lpbvj30to0n44qp.jpg)
 >> 
 >> **3.加入可以使用上述快捷键的app**
+>>
 >> ![右键选择 Configure Object 然后选择 Related App](https://tva1.sinaimg.cn/large/007S8ZIlgy1ge2genfl8ej30to0n4nlo.jpg)
 >> <font color="red">直接从访达中将App拖入此窗口中即可。</font>
 
